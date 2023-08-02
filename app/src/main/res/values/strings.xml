@@ -19,4 +19,6 @@
     <string name="secure_password_uppercase_validation"> > Al menos 1 letra mayúscula</string>
     <string name="secure_password_number_validation"> > Al menos 1 número</string>
     <string name="secure_password_character_validation"> > Al menos 1 caracter especial (como . , % $)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
