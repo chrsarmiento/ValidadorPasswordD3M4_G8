@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Desafio Validar Contraseña</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Validador de contraseñas</string>
+    <string name="second_fragment_label">Resultado</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="validate_password">Validar contraseña</string>
+    <string name="min_characters">La contraseña debe tener al menos 5 caracteres y una letra mayúscula</string>
+    <string name="write_password">Escribe una contraseña</string>
+    <string name="secure_password_description">Recuerda que para que la contraseña sea segura debe cumplir con estas características:</string>
+    <string name="secure_password_length_validation"> > Al menos 5 caracteres</string>
+    <string name="secure_password_uppercase_validation"> > Al menos 1 letra mayúscula</string>
+    <string name="secure_password_number_validation"> > Al menos 1 número</string>
+    <string name="secure_password_character_validation"> > Al menos 1 caracter especial (como . , % $)</string>
+</resources>
